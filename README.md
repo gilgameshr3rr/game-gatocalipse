@@ -5,7 +5,7 @@ In a post-apocalyptic future, cats have taken over the earth! Now, they chase wh
 
 ## Let's get started
 
-==-----> Click here to play <-----==  [CLICK here](https://gilgameshr3rr.github.io/gatocalipse/index.html)  .
+-----> Click [HERE](https://gilgameshr3rr.github.io/gatocalipse/index.html) to play <-----.
 
 
 ![Image](screenshot.jpg)
